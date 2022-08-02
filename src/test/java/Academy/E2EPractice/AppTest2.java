@@ -1,0 +1,27 @@
+package Academy.E2EPractice;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest2 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+    
+    public void hello()
+    {
+    	
+    	System.out.println("This is practice");
+    }
+    
+}
